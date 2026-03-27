@@ -1,16 +1,41 @@
-# React + Vite
+# Khary Filer - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my work as an indie developer, test automation engineer, and UX enthusiast.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a neuroscientist turned indie video game developer turned test automation engineer. I craft digital experiences with precision and love, focusing on building software that matters.
 
-## React Compiler
+## Featured Projects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Games
+- **I'm Calling The Cops!** - First-person cartoony action strategy game on Steam
+- **Ramen** - Action FPS game on Steam
+- **The Norse Coast** - Under-sea FPS strategy game on Itch.io
+- **Innie The Outie** - Action/strategy game on Itch.io
 
-## Expanding the ESLint configuration
+### Web Apps
+- **Gripah** - Private personal budgeting utility app (iOS/Android)
+- **Brozato Symbol Watcher** - Test automation solution with REST API
+- **Loxiauto** - ISTQB certification practice exams
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Other
+- **Teersmith Valley** - Minecraft Bedrock Edition addon map
+
+## Tech Stack
+
+- React + Vite
+- CSS with custom styling
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
