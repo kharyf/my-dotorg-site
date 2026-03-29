@@ -14,14 +14,14 @@ function App() {
         </video>
         <div className="page-overlay"></div>
 
-        <section id="hero" className="fade-in">
-          <div className="container" style={{ textAlign: 'center', padding: '20px 0', position: 'relative', zIndex: 1 }}>
-            <h2 style={{ fontSize: '1.2rem', color: '#aaaaaa', marginBottom: '1rem' }}>Indie Developer, Test Automation Engineer, & UX Obsessive</h2>
-            <h1 style={{ fontSize: '5rem', lineHeight: '1', marginBottom: '2rem' }}>
+        <section id="hero" className="hero fade-in">
+          <div className="container hero-container">
+            <h2 className="hero-subtitle">Indie Developer, Test Automation Engineer, & UX Obsessive</h2>
+            <h1 className="hero-title">
               CRAFTING <span className="text-aqua">DIGITAL</span><br />
               EXPERIENCES WITH <span className="text-lemon">PRECISION</span> & <span style={{ color: '#ff69b4' }}>LOVE</span>.
             </h1>
-            <p style={{ maxWidth: '600px', margin: '0 auto', color: '#aaaaaa', fontSize: '1.2rem' }}>
+            <p className="hero-description">
               Neuroscientist turned Indie Video Game Developer turned Test Automation Engineer.
               Using taste, vision, and care to build software experiences that matter.
             </p>
