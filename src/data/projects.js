@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 1,
     title: "Gripah",
-    description: "The premier private personal budgeting utility app. Coming soon to iOS and Android.",
+    description: "The premier private personal budgeting utility app. Available on iOS now.",
     tags: ["Finance", "Budgeting", "Privacy"],
     images: [
       "https://gripah.com/Screenshots/IMG_6247.PNG",
